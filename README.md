@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianj0nes&count_private=trueshow_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Seb's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
