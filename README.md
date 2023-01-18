@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianj0nes)](https://github.com/anuraghazra/github-readme-stats)
+[![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianj0nes&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sebastianj0nes/sebastianj0nes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
