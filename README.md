@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![banner](https://user-images.githubusercontent.com/114486176/213236640-d391c4e8-a0d3-4957-931b-efd71f4ad68b.png)
+
 [![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianj0nes&count_private=trueshow_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
